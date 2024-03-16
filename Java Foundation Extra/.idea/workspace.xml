@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc993508-6cb8-48db-b477-6d57bdb6a14f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/ArraysD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Array2D.java" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Arrays2DJaggered.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ArraysD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ArraysD.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +37,8 @@
   "keyToString": {
     "Application.Array2D.executor": "Run",
     "Application.Arrays.executor": "Run",
+    "Application.Arrays2DJaggered.executor": "Run",
+    "Application.ArraysD.executor": "Run",
     "Application.Break.executor": "Run",
     "Application.Continue.executor": "Run",
     "Application.DoWhile.executor": "Run",
