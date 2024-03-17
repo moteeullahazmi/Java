@@ -4,6 +4,7 @@ public class Arrays {
         names[1]="Moteeullah Azmi";
         for(int i=0; i< names.length;i++){
             System.out.println(names[i]);
+            // Moteeullah Azmi
         }
     }
 }
